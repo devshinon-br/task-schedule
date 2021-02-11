@@ -1,6 +1,14 @@
-# agenda_de_tarefas
+# The project agendaDeTarefas
+## ***Task Schedule***
+### This project is finished
 
-A new Flutter project.
+This project was created in order to facilitate the organization of daily tasks, such as a shopping list, or tasks to be carried out in a certain period. Today, it has the functionality to create, remove and mark completed or deselect the task.
+
+To put this project into practice it was used:
+- Flutter,
+- Dart,
+- Angular Material
+- and other additional dependencies already present in the project.
 
 ## Getting Started
 
